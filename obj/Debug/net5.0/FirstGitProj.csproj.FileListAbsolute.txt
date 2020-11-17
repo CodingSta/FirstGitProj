@@ -1,0 +1,15 @@
+/Users/codingstar/Documents/GitTest/FirstGitProj/bin/Debug/net5.0/FirstGitProj.deps.json
+/Users/codingstar/Documents/GitTest/FirstGitProj/bin/Debug/net5.0/FirstGitProj.runtimeconfig.json
+/Users/codingstar/Documents/GitTest/FirstGitProj/bin/Debug/net5.0/FirstGitProj.runtimeconfig.dev.json
+/Users/codingstar/Documents/GitTest/FirstGitProj/bin/Debug/net5.0/FirstGitProj.dll
+/Users/codingstar/Documents/GitTest/FirstGitProj/bin/Debug/net5.0/ref/FirstGitProj.dll
+/Users/codingstar/Documents/GitTest/FirstGitProj/bin/Debug/net5.0/FirstGitProj.pdb
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.csprojAssemblyReference.cache
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.AssemblyInfoInputs.cache
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.AssemblyInfo.cs
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.csproj.CoreCompileInputs.cache
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.dll
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/ref/FirstGitProj.dll
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.pdb
+/Users/codingstar/Documents/GitTest/FirstGitProj/obj/Debug/net5.0/FirstGitProj.genruntimeconfig.cache
